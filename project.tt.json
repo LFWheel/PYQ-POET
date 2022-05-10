@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "pyq-poet",
+  "appid": "testAppId",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}

@@ -1,0 +1,17 @@
+.palette-container {
+  width: 100%;
+  background-color: #999;
+  position: fixed;
+  bottom: 10%;
+  .palette-top {
+    display: flex;
+    justify-content: space-around;
+    background-color: green;
+  }
+
+  .palette-bottom {
+    display: flex;
+    justify-content: space-around;
+    background-color: blue;
+  }
+}
